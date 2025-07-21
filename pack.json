@@ -1,0 +1,9 @@
+{
+	"name": "Hoz",
+	"description": "Oneshot mod: Hoz\nMod made for the Oneshot Engine",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [145, 155, 206],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

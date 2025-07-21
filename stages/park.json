@@ -1,0 +1,120 @@
+{
+	"objects": [
+		{
+			"x": -700,
+			"y": -100,
+			"scale": [
+				2560,
+				800
+			],
+			"filters": 3,
+			"color": "99FFFF",
+			"angle": 0,
+			"name": "sky",
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "square"
+		},
+		{
+			"x": 702,
+			"y": 319,
+			"scale": [
+				1,
+				1
+			],
+			"image": "hozBg/boppers",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "boppers",
+			"firstAnimation": "bop",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"indices": [],
+					"fps": 24,
+					"anim": "bop",
+					"loop": true,
+					"name": "Boppers"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -561,
+			"y": 24,
+			"scale": [
+				1,
+				1
+			],
+			"image": "hozBg/park",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "park",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_opponent": [
+		400,
+		0
+	],
+	"girlfriend": [
+		400,
+		130
+	],
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"gf": "gf",
+		"dad": "hoz"
+	},
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"boyfriend": [
+		830,
+		-20
+	],
+	"opponent": [
+		-100,
+		-80
+	],
+	"hide_girlfriend": true,
+	"directory": "",
+	"camera_speed": 1,
+	"defaultZoom": 0.9,
+	"stageUI": "normal",
+	"camera_boyfriend": [
+		-200,
+		-50
+	]
+}

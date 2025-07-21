@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boppers.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Boppers0000" x="4" y="4" width="724" height="296" frameX="-3" frameY="0" frameWidth="729" frameHeight="296"/>
+	<SubTexture name="Boppers0001" x="736" y="4" width="726" height="295" frameX="-3" frameY="0" frameWidth="729" frameHeight="296"/>
+	<SubTexture name="Boppers0002" x="4" y="308" width="729" height="284" frameX="0" frameY="-11" frameWidth="729" frameHeight="296"/>
+	<SubTexture name="Boppers0003" x="741" y="308" width="727" height="285" frameX="0" frameY="-11" frameWidth="729" frameHeight="296"/>
+</TextureAtlas>

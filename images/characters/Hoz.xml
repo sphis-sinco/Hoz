@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hoz.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hoz anim down0000" x="1000" y="3239" width="489" height="622" frameX="-3" frameY="0" frameWidth="492" frameHeight="622"/>
+	<SubTexture name="Hoz anim down0001" x="1000" y="3239" width="489" height="622" frameX="-3" frameY="0" frameWidth="492" frameHeight="622"/>
+	<SubTexture name="Hoz anim down0002" x="1065" y="2586" width="488" height="616" frameX="0" frameY="-6" frameWidth="492" frameHeight="622"/>
+	<SubTexture name="Hoz anim down0003" x="1065" y="2586" width="488" height="616" frameX="0" frameY="-6" frameWidth="492" frameHeight="622"/>
+	<SubTexture name="Hoz anim idle0000" x="1087" y="1299" width="558" height="598" frameX="0" frameY="-64" frameWidth="558" frameHeight="663"/>
+	<SubTexture name="Hoz anim idle0001" x="548" y="1979" width="558" height="599" frameX="0" frameY="-63" frameWidth="558" frameHeight="663"/>
+	<SubTexture name="Hoz anim idle0002" x="4" y="2664" width="557" height="603" frameX="-1" frameY="-59" frameWidth="558" frameHeight="663"/>
+	<SubTexture name="Hoz anim idle0003" x="560" y="4" width="554" height="611" frameX="-3" frameY="-52" frameWidth="558" frameHeight="663"/>
+	<SubTexture name="Hoz anim idle0004" x="539" y="671" width="550" height="620" frameX="-7" frameY="-43" frameWidth="558" frameHeight="663"/>
+	<SubTexture name="Hoz anim idle0005" x="535" y="1341" width="544" height="630" frameX="-12" frameY="-32" frameWidth="558" frameHeight="663"/>
+	<SubTexture name="Hoz anim idle0006" x="4" y="2011" width="536" height="645" frameX="-19" frameY="-17" frameWidth="558" frameHeight="663"/>
+	<SubTexture name="Hoz anim idle0007" x="4" y="671" width="527" height="662" frameX="-27" frameY="0" frameWidth="558" frameHeight="663"/>
+	<SubTexture name="Hoz anim idle0008" x="4" y="671" width="527" height="662" frameX="-27" frameY="0" frameWidth="558" frameHeight="663"/>
+	<SubTexture name="Hoz anim idle0009" x="4" y="671" width="527" height="662" frameX="-27" frameY="0" frameWidth="558" frameHeight="663"/>
+	<SubTexture name="Hoz anim idle0010" x="4" y="671" width="527" height="662" frameX="-27" frameY="0" frameWidth="558" frameHeight="663"/>
+	<SubTexture name="Hoz anim idle0011" x="4" y="671" width="527" height="662" frameX="-27" frameY="0" frameWidth="558" frameHeight="663"/>
+	<SubTexture name="Hoz anim idle0012" x="4" y="671" width="527" height="662" frameX="-27" frameY="0" frameWidth="558" frameHeight="663"/>
+	<SubTexture name="Hoz anim idle0013" x="4" y="671" width="527" height="662" frameX="-27" frameY="0" frameWidth="558" frameHeight="663"/>
+	<SubTexture name="Hoz anim left0000" x="4" y="1341" width="523" height="662" frameX="0" frameY="0" frameWidth="525" frameHeight="662"/>
+	<SubTexture name="Hoz anim left0001" x="4" y="1341" width="523" height="662" frameX="0" frameY="0" frameWidth="525" frameHeight="662"/>
+	<SubTexture name="Hoz anim left0002" x="4" y="3275" width="491" height="659" frameX="-34" frameY="-3" frameWidth="525" frameHeight="662"/>
+	<SubTexture name="Hoz anim left0003" x="4" y="3275" width="491" height="659" frameX="-34" frameY="-3" frameWidth="525" frameHeight="662"/>
+	<SubTexture name="Hoz anim right0000" x="503" y="3275" width="489" height="645" frameX="-3" frameY="0" frameWidth="492" frameHeight="645"/>
+	<SubTexture name="Hoz anim right0001" x="503" y="3275" width="489" height="645" frameX="-3" frameY="0" frameWidth="492" frameHeight="645"/>
+	<SubTexture name="Hoz anim right0002" x="569" y="2586" width="488" height="645" frameX="0" frameY="0" frameWidth="492" frameHeight="645"/>
+	<SubTexture name="Hoz anim right0003" x="569" y="2586" width="488" height="645" frameX="0" frameY="0" frameWidth="492" frameHeight="645"/>
+	<SubTexture name="Hoz anim up0000" x="4" y="4" width="548" height="659" frameX="0" frameY="0" frameWidth="550" frameHeight="659"/>
+	<SubTexture name="Hoz anim up0001" x="4" y="4" width="548" height="659" frameX="0" frameY="0" frameWidth="550" frameHeight="659"/>
+	<SubTexture name="Hoz anim up0002" x="1097" y="623" width="515" height="642" frameX="-35" frameY="-16" frameWidth="550" frameHeight="659"/>
+	<SubTexture name="Hoz anim up0003" x="1097" y="623" width="515" height="642" frameX="-35" frameY="-16" frameWidth="550" frameHeight="659"/>
+</TextureAtlas>

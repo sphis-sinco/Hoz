@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"Hoz",
+			"hoz",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Hoz",
+	"weekName": "hoz",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Hoz anim idle"
+		},
+		{
+			"offsets": [-29, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Hoz anim left"
+		},
+		{
+			"offsets": [-66, -40],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Hoz anim down"
+		},
+		{
+			"offsets": [-3, -4],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Hoz anim up"
+		},
+		{
+			"offsets": [-65, -17],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Hoz anim right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Hoz",
+	"position": [0, 180],
+	"healthicon": "hoz",
+	"flip_x": false,
+	"healthbar_colors": [161, 161, 161],
+	"camera_position": [-140, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
